@@ -2,6 +2,9 @@
 
 ## 1. Python
 
+![image](https://github.com/user-attachments/assets/fdfad28d-f22f-41da-9f1a-3085852e7a17)
+
+
 **Definition:**  
 Python is a high-level, interpreted programming language known for its readability, simplicity, and extensive library support. It is widely used in data science, machine learning, web development, and automation.
 
@@ -26,6 +29,9 @@ Python is a high-level, interpreted programming language known for its readabili
 
 ## 2. PySpark
 
+![image](https://github.com/user-attachments/assets/1e6333c6-1347-4803-a449-32ef62e7fcd7)
+
+
 **Definition:**  
 PySpark is the Python API for Apache Spark, enabling Python developers to harness the power of Spark's distributed computing framework. It allows for processing large datasets and running parallel tasks efficiently.
 
@@ -46,6 +52,9 @@ PySpark is the Python API for Apache Spark, enabling Python developers to harnes
 ---
 
 ## 3. Apache Spark
+
+![image](https://github.com/user-attachments/assets/e653e093-d130-4548-85a9-ff0ac91555b1)
+
 
 **Definition:**  
 Apache Spark is an open-source, distributed computing system that provides an interface for programming entire clusters with implicit data parallelism and fault tolerance. It is known for its speed, ease of use, and ability to handle large-scale data processing.
@@ -71,6 +80,9 @@ Apache Spark is an open-source, distributed computing system that provides an in
 
 ## 4. R
 
+![image](https://github.com/user-attachments/assets/f0a52ddf-08ce-4702-91b9-9a247697499f)
+
+
 **Definition:**  
 R is a programming language and environment primarily used for statistical computing and graphics. It is widely used among statisticians and data miners for developing statistical software and data analysis.
 
@@ -94,6 +106,9 @@ R is a programming language and environment primarily used for statistical compu
 ---
 
 ## 5. Scala
+
+![image](https://github.com/user-attachments/assets/68c00d15-75e1-4217-b0ca-918ed0ad0bd7)
+
 
 **Definition:**  
 Scala is a high-level programming language that combines object-oriented and functional programming paradigms. It is designed to be concise, elegant, and highly scalable, making it suitable for large-scale systems.
