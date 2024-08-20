@@ -25,6 +25,9 @@ Eclipse is an open-source integrated development environment (IDE) widely used f
 
 ## 2. Apache Tomcat
 
+![image](https://github.com/user-attachments/assets/d8db2baf-7bac-4d8a-8407-33f6e165cade)
+
+
 **Definition:**  
 Apache Tomcat is an open-source web server and servlet container developed by the Apache Software Foundation. It is used to deploy and serve Java web applications.
 
@@ -47,6 +50,9 @@ Apache Tomcat is an open-source web server and servlet container developed by th
 ---
 
 ## 3. NetBeans
+
+![image](https://github.com/user-attachments/assets/a367b179-82cd-48cc-8d84-77c9e73e8736)
+
 
 **Definition:**  
 NetBeans is an open-source IDE primarily used for Java development, but it also supports other languages like PHP, HTML5, and C/C++ through plugins.
@@ -71,6 +77,9 @@ NetBeans is an open-source IDE primarily used for Java development, but it also 
 
 ## 4. JUnit
 
+![image](https://github.com/user-attachments/assets/a98eb0b7-d8aa-4ac8-8cd7-a657b5eaee96)
+
+
 **Definition:**  
 JUnit is a widely-used open-source framework for unit testing in Java. It is part of the xUnit family of testing frameworks.
 
@@ -93,6 +102,8 @@ JUnit is a widely-used open-source framework for unit testing in Java. It is par
 ---
 
 ## 5. SQL
+
+![image](https://github.com/user-attachments/assets/666a4ee1-f3e1-4d52-a1da-69d46ff93a34)
 
 **Definition:**  
 SQL (Structured Query Language) is a standard programming language used for managing and manipulating relational databases. It is used to query, update, and manage data stored in a database.
@@ -117,6 +128,9 @@ SQL (Structured Query Language) is a standard programming language used for mana
 
 ## 6. SVN (Apache Subversion)
 
+![image](https://github.com/user-attachments/assets/6357a8c2-a49b-471e-b124-d8f72ecc7ab7)
+
+
 **Definition:**  
 SVN (Subversion) is a version control system that helps developers manage changes to source code and documents. It allows multiple people to collaborate on a project, track changes, and revert to previous versions.
 
@@ -139,6 +153,9 @@ SVN (Subversion) is a version control system that helps developers manage change
 ---
 
 ## 7. Log4j
+
+![image](https://github.com/user-attachments/assets/67146561-202e-4e25-a49e-0ab5d707b013)
+
 
 **Definition:**  
 Log4j is an open-source logging library for Java that provides a flexible and efficient way to log messages from Java applications. It is part of the Apache Logging Services project.
@@ -163,6 +180,9 @@ Log4j is an open-source logging library for Java that provides a flexible and ef
 
 ## 8. SOAP UI
 
+![image](https://github.com/user-attachments/assets/32541308-8f31-47a3-b4f7-4cbfb543df96)
+
+
 **Definition:**  
 SOAP UI is an open-source tool used for testing web services, particularly SOAP (Simple Object Access Protocol) and REST (Representational State Transfer) web services.
 
@@ -185,6 +205,8 @@ SOAP UI is an open-source tool used for testing web services, particularly SOAP 
 ---
 
 ## 9. Apache ANT
+
+![image](https://github.com/user-attachments/assets/fe40d457-312a-494c-87e3-5e974dcb7a36)
 
 **Definition:**  
 Apache ANT is a Java-based build tool used to automate the build process in software development. It is similar to Make but is designed specifically for Java projects.
@@ -209,6 +231,9 @@ Apache ANT is a Java-based build tool used to automate the build process in soft
 
 ## 10. Apache Maven
 
+![image](https://github.com/user-attachments/assets/5bc5b632-e925-4058-956f-65e659c0240e)
+
+
 **Definition:**  
 Apache Maven is a build automation tool primarily used for Java projects. It manages project dependencies, builds projects, and generates reports on project status.
 
@@ -231,6 +256,9 @@ Apache Maven is a build automation tool primarily used for Java projects. It man
 ---
 
 ## 11. Alteryx
+
+![image](https://github.com/user-attachments/assets/caad8ac9-9abc-43e4-a02f-782145774315)
+
 
 **Definition:**  
 Alteryx is a data analytics platform that provides a suite of tools for data preparation, blending, and advanced analytics. It is known for its intuitive, drag-and-drop interface.
