@@ -3,6 +3,9 @@
 **Definition:**  
 Azure HDInsight is a fully managed cloud service from Microsoft for big data analytics. It supports a variety of open-source frameworks such as Hadoop, Spark, Hive, and more.
 
+![image](https://github.com/user-attachments/assets/60f7a5b6-378e-4012-9b91-0934496791e4)
+
+
 **Why It's Useful:**  
 HDInsight simplifies the deployment of big data clusters in the cloud, providing scalability, reliability, and security without the overhead of managing infrastructure.
 
