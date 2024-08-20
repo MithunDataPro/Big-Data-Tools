@@ -2,6 +2,8 @@
 
 ## 1. Cassandra
 
+![image](https://github.com/user-attachments/assets/8cab2a85-f2a4-4009-b65f-f5e3779c0437)
+
 **Definition:**  
 Apache Cassandra is a highly scalable, distributed NoSQL database designed to handle large amounts of data across many commodity servers without a single point of failure.
 
@@ -24,6 +26,9 @@ Apache Cassandra is a highly scalable, distributed NoSQL database designed to ha
 ---
 
 ## 2. HBase
+
+![image](https://github.com/user-attachments/assets/33cf7264-c422-4e83-9158-1d3ec5baedbb)
+
 
 **Definition:**  
 Apache HBase is an open-source, distributed, column-oriented NoSQL database built on top of the Hadoop Distributed File System (HDFS). It is designed to handle large amounts of sparse data.
@@ -48,6 +53,9 @@ Apache HBase is an open-source, distributed, column-oriented NoSQL database buil
 
 ## 3. MongoDB
 
+![image](https://github.com/user-attachments/assets/66cc8653-21bd-4099-b518-2ce285e081c7)
+
+
 **Definition:**  
 MongoDB is a document-oriented NoSQL database designed for high availability, scalability, and ease of development. It stores data in flexible, JSON-like documents.
 
@@ -70,6 +78,9 @@ MongoDB is a document-oriented NoSQL database designed for high availability, sc
 ---
 
 ## 4. Oracle
+
+![image](https://github.com/user-attachments/assets/13d0b9d2-5255-4737-8120-863cb143b57a)
+
 
 **Definition:**  
 Oracle Database is a multi-model database management system designed for enterprise grid computing. It is known for its robustness, security, and comprehensive feature set.
@@ -94,6 +105,8 @@ Oracle Database is a multi-model database management system designed for enterpr
 
 ## 5. MS SQL Server
 
+![image](https://github.com/user-attachments/assets/d778966b-6a95-4833-866b-5ef2ceb457b7)
+
 **Definition:**  
 Microsoft SQL Server is a relational database management system (RDBMS) developed by Microsoft. It supports a wide range of transaction processing, business intelligence, and analytics applications.
 
@@ -116,6 +129,8 @@ Microsoft SQL Server is a relational database management system (RDBMS) develope
 ---
 
 ## 6. MySQL
+
+![image](https://github.com/user-attachments/assets/3f299dce-8e9b-4d7e-89d9-fcfc1f5167b3)
 
 **Definition:**  
 MySQL is an open-source relational database management system that uses SQL. It is widely used in web applications and is known for its speed, reliability, and ease of use.
@@ -140,6 +155,9 @@ MySQL is an open-source relational database management system that uses SQL. It 
 
 ## 7. Teradata
 
+![image](https://github.com/user-attachments/assets/86a225b9-f951-401c-b089-6c1d7c886e74)
+
+
 **Definition:**  
 Teradata is a powerful data warehousing solution known for its ability to handle large-scale data analytics and processing. It is designed for parallel processing, scalability, and handling complex queries.
 
@@ -163,6 +181,11 @@ Teradata is a powerful data warehousing solution known for its ability to handle
 
 ## 8. NoSQL Databases
 
+![image](https://github.com/user-attachments/assets/86e2e20b-4fa3-4f75-98f3-2ff5b1af2f71)
+
+![image](https://github.com/user-attachments/assets/a2973785-2d5b-4052-a397-16f1679570a4)
+
+
 **Definition:**  
 NoSQL databases are non-relational databases designed to handle a wide variety of data models, including document, key-value, graph, and column-family data models. They are optimized for large-scale data storage and real-time web applications.
 
@@ -185,6 +208,8 @@ NoSQL databases are non-relational databases designed to handle a wide variety o
 ---
 
 ## 9. PostgreSQL
+
+![image](https://github.com/user-attachments/assets/37e42a87-100a-425e-b4e1-d0c6b12dc17b)
 
 **Definition:**  
 PostgreSQL is an open-source, object-relational database management system known for its extensibility, compliance with SQL standards, and support for complex queries and data types.
