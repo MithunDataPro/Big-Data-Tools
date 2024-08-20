@@ -140,3 +140,100 @@ Azure Data Factory (ADF) is a cloud-based data integration service that allows t
 - **Data Migration:**  
   Moving on-premises data to Azure for processing and storage. ADF supports the migration of large datasets to the cloud, enabling organizations to leverage Azure's storage and processing capabilities for their data needs.
 
+---
+
+# Azure Data Explorer
+
+![image](https://github.com/user-attachments/assets/f43ac2ee-c547-466c-8d8a-3881edd4a76d)
+
+
+**Definition:**  
+Azure Data Explorer is a fast, fully managed data analytics service that makes it easy to explore and analyze real-time and historical data. It is designed for high-performance queries on large datasets, particularly time-series data, telemetry, and logs.
+
+**Why It's Useful:**  
+Azure Data Explorer is optimized for querying and analyzing massive amounts of data in near real-time. It is particularly well-suited for use cases involving large volumes of streaming data, providing insights with low latency.
+
+**Use Cases:**
+
+- **Telemetry Analysis:**  
+  Analyzing telemetry data from IoT devices, applications, and infrastructure to monitor performance and detect anomalies.
+  
+- **Log Analytics:**  
+  Collecting and analyzing log data to gain insights into system behavior, troubleshoot issues, and enhance security monitoring.
+  
+- **Time-Series Analysis:**  
+  Working with time-series data, such as financial market data or sensor data, to identify trends, patterns, and anomalies.
+
+---
+
+# Azure Event Hubs
+
+![image](https://github.com/user-attachments/assets/eaed31bd-a968-4082-b134-ce173a45b4e8)
+
+
+**Definition:**  
+Azure Event Hubs is a big data streaming platform and event ingestion service that can receive and process millions of events per second. It serves as the on-ramp for big data, acting as the entry point for event data into Azure for further processing.
+
+**Why It's Useful:**  
+Azure Event Hubs is highly scalable, capable of handling massive event streams with low latency. It is essential for scenarios where large volumes of event data need to be ingested quickly and reliably for real-time processing and analytics.
+
+**Use Cases:**
+
+- **Real-Time Analytics:**  
+  Capturing and analyzing event streams in real-time from various sources such as IoT devices, applications, and services.
+
+- **Data Ingestion for Big Data Pipelines:**  
+  Serving as the first step in big data pipelines, Event Hubs collects data that can be processed by downstream services like Azure Stream Analytics, Azure Data Explorer, or Azure Databricks.
+
+- **Event-Driven Architecture:**  
+  Building event-driven applications where different parts of the system respond to events in real-time, enabling reactive and scalable designs.
+
+---
+
+# Azure Cosmos DB
+
+![image](https://github.com/user-attachments/assets/53a3bc53-5717-49e0-a7d4-a938828c9700)
+
+
+**Definition:**  
+Azure Cosmos DB is a globally distributed, multi-model database service designed to enable the creation of highly responsive and scalable applications. It supports multiple data models, including document, key-value, graph, and column-family.
+
+**Why It's Useful:**  
+Azure Cosmos DB is designed for high availability, low latency, and global distribution, making it ideal for applications that require consistent performance at scale, regardless of where the users are located. It provides built-in support for partitioning, replication, and automatic scaling.
+
+**Use Cases:**
+
+- **Global Web Applications:**  
+  Developing applications that require low-latency data access across multiple regions, such as global e-commerce platforms or social media services.
+  
+- **IoT Solutions:**  
+  Storing and querying vast amounts of IoT data in near real-time, enabling responsive and scalable IoT applications.
+  
+- **Personalization and Recommendation Engines:**  
+  Leveraging the flexibility of Cosmos DB's data models to build and deploy recommendation systems that provide personalized content to users.
+
+---
+
+# Azure SQL Database
+
+![image](https://github.com/user-attachments/assets/6d7e9a35-f2a7-42a9-86fc-f5609cd527a6)
+
+
+**Definition:**  
+Azure SQL Database is a fully managed relational database service built on Microsoft SQL Server. It offers scalable, high-performance, and secure database solutions in the cloud, with features such as automated backups, patching, and scaling.
+
+**Why It's Useful:**  
+Azure SQL Database is highly optimized for modern cloud applications that require a robust relational database service with minimal management overhead. It supports advanced features like AI-powered performance tuning, high availability, and built-in security.
+
+**Use Cases:**
+
+- **Enterprise Applications:**  
+  Running mission-critical applications that require a reliable, scalable, and secure relational database solution.
+  
+- **Data Warehousing:**  
+  Creating data warehouses that integrate data from multiple sources and enable complex queries and reporting.
+  
+- **Scalable Web and Mobile Applications:**  
+  Using Azure SQL Database to back-end web and mobile applications, ensuring they can scale to meet growing user demands without performance degradation.
+
+---
