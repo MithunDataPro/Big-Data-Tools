@@ -14,7 +14,7 @@ Big Data refers to the large volumes of structured, semi-structured, and unstruc
 - **Customer Sentiment Analysis:** Analyzing customer feedback from social media and surveys.
 - **Predictive Maintenance:** Using sensor data from machines to predict failures before they happen.
 
-![Big Data Logo](Assets/Big_Data_Logo.jfif)
+![Big Data Logo](Assests/Big_Data_Logo.jfif)
 
 ---
 
