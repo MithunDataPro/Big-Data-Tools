@@ -9,8 +9,6 @@ Hadoop is an open-source framework that allows for the distributed processing of
 - **MapReduce:** A programming model for processing large data sets with a parallel, distributed algorithm.
 - **YARN (Yet Another Resource Negotiator):** Manages resources and scheduling tasks in the cluster.
 
-  ![image](https://github.com/user-attachments/assets/0d754ee5-f45f-499f-afd3-dc3c2573249f)
-
 
 **Use Cases:**
 
@@ -27,6 +25,8 @@ Hadoop is a framework written in Java that utilizes a large cluster of commodity
 - HDFS (Hadoop Distributed File System)
 - YARN (Yet Another Resource Negotiator)
 - Common Utilities or Hadoop Common
+
+  ![image](https://github.com/user-attachments/assets/0d754ee5-f45f-499f-afd3-dc3c2573249f)
 
 Let’s understand the role of each component in detail.
 
